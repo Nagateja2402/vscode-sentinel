@@ -1,13 +1,13 @@
 {
 	"name": "lsp-sample-client",
 	"description": "VSCode part of a language server",
-	"author": "HashiCorp",
+	"author": "Nagateja",
 	"license": "MPL-2.0",
 	"version": "0.3.0",
-	"publisher": "hashiCorp",
+	"publisher": "Nagateja",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/hashicorp/vscode-sentinel.git"
+		"url": "https://github.com/Nagateja2402/vscode-sentinel.git"
 	},
 	"engines": {
 		"vscode": "^1.75.0"

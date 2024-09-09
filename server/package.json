@@ -2,14 +2,14 @@
   "name": "lsp-sample-server",
   "description": "Example implementation of a language server in node.",
   "version": "0.3.0",
-  "author": "HashiCorp",
+  "author": "Nagateja",
   "license": "MPL-2.0",
   "engines": {
     "node": "*"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/hashicorp/vscode-sentinel.git"
+    "url": "https://github.com/Nagateja2402/vscode-sentinel.git"
   },
   "dependencies": {
     "vscode-languageserver": "^9.0.1",
